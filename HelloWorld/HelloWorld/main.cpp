@@ -11,7 +11,7 @@
 int main (int argc, const char * argv[])
 {
 
-    // insert code here...
+    // insert code here... : ok
     std::cout << "Hello, World!\n";
     std::cout << "Let's play with git!";
     return 0;
