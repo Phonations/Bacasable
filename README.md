@@ -2,4 +2,4 @@
 
 Test repository for phonations.
 
-Signing test
+Signing test with perso address
